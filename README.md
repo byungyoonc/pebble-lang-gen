@@ -33,7 +33,7 @@ The `translation/000` holds the meta data and interface translation data. If you
 
 ### 3. Run `python build.py`
 
-The final language pack will be output to `build/langpack.pbl`. Example includes Japanese and Thai display character support added to the main English interface (`EN_JP_TH.pbl`).
+The final language pack will be output to `build/langpack.pbl`. Example includes Korean and Japanese display character support added to the main English interface (`EN_KR_JP.pbl`).
 
 ### 4. Upload this file to the watch via the app
 
@@ -46,6 +46,8 @@ Optionally, you can [preview](font_preview.md) the generated font files in Pebbl
 - Kanji frequency list -- https://scriptin.github.io/kanji-frequency
 - Renaissance -- https://github.com/pebble-dev/renaissance
 - PBFF Format description -- https://github.com/pebble-dev/renaissance/wiki/PBFF-Format-description
+- Korean character list -- https://github.com/Snack-X/pebble-language-pack/tree/master/list-generator/data_raw
+- Galmuri font -- https://github.com/quiple/galmuri
 
 <a href="https://ko-fi.com/pyxzure" target="_blank">
   <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee" width="100" height="25"/>
