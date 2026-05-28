@@ -146,6 +146,8 @@ def merge_fonts(fonts: List[Font]) -> Font:
                     break
 
                 if codepoint == fg.WILDCARD_CODEPOINT:
+                    codepoint, gindex = thisfont.get_next_char(codepoint, gindex)
+                    continue
                     if thisfont.type == FontType.TTF:
                         raise Exception(f'Wildcard codepoint is used for something else in this font {thisfont.ttf_path or thisfont.pbff_path}')
                     # continue
