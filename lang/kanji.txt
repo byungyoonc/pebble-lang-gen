@@ -1,5 +1,5 @@
 #https://scriptin.github.io/kanji-frequency/
-#font:GoNotoKurrent
+#font:Galmuri
 人
 一
 見

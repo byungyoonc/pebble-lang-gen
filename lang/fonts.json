@@ -1,55 +1,55 @@
 [
     {
-        "name": "GoNotoKurrent",
+        "name": "Galmuri",
         "variants":
         {
             "001": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
+                "ttf": "Galmuri/Galmuri11.ttf",
                 "height": 12,
                 "offset": 2
             },
             "002": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
+                "ttf": "Galmuri/Galmuri11.ttf",
                 "height": 12,
                 "offset": 2
             },
             "003": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 14,
-                "offset": 4
+                "ttf": "Galmuri/Galmuri14.ttf",
+                "height": 15,
+                "offset": 3
             },
             "004": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 14,
-                "offset": 4
+                "ttf": "Galmuri/Galmuri14.ttf",
+                "height": 15,
+                "offset": 3
             },
             "005": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 17,
-                "offset": 7
+                "ttf": "Galmuri/Galmuri9.ttf",
+                "height": 20,
+                "offset": 4
             },
             "006": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 17,
-                "offset": 7
+                "ttf": "Galmuri/Galmuri9.ttf",
+                "height": 20,
+                "offset": 4
             },
             "007": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 20,
-                "offset": 8
+                "ttf": "Galmuri/Galmuri11.ttf",
+                "height": 24,
+                "offset": 4
             },
             "008": 
             {
-                "ttf": "GoNotoKurrent-Regular.ttf",
-                "height": 20,
-                "offset": 8
+                "ttf": "Galmuri/Galmuri11.ttf",
+                "height": 24,
+                "offset": 4
             }
         }
     }

@@ -1,26 +1,20 @@
 [
     {
-        "name": "TH",
-        "start": "0E00",
-        "end": "0E7F",
-        "font": "GoNotoKurrent"
-    },
-    {
         "name": "JP Sym",
         "start": "3000",
         "end": "301F",
-        "font": "GoNotoKurrent"
+        "font": "Galmuri"
     },
     {
         "name": "JP Kana",
         "start": "3040",
         "end": "30FF",
-        "font": "GoNotoKurrent"
+        "font": "Galmuri"
     },
     {
         "name": "Halfwidth",
         "start": "FF00",
         "end": "FFEF",
-        "font": "GoNotoKurrent"
+        "font": "Galmuri"
     }
 ]
